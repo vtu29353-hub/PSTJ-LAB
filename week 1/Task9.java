@@ -1,4 +1,4 @@
-public class Task9 {
+public class Task9 {                                                                                     
     public static void main(String[] args) {
         int marks = 85;
         if (marks >= 90) {
